@@ -1,0 +1,392 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 8
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5100 3600 4950 3600
+Wire Wire Line
+	4500 3500 5100 3500
+Wire Wire Line
+	5100 3400 4950 3400
+Wire Wire Line
+	4500 3300 5100 3300
+$Comp
+L Device:R R?
+U 1 1 6188E204
+P 4800 4000
+AR Path="/61884464/6188E204" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188E204" Ref="R8"  Part="1" 
+AR Path="/618A51E6/6188E204" Ref="R16"  Part="1" 
+AR Path="/618A54D1/6188E204" Ref="R24"  Part="1" 
+AR Path="/618A561D/6188E204" Ref="R32"  Part="1" 
+F 0 "R8" V 4593 4000 50  0000 C CNN
+F 1 "R" V 4684 4000 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4730 4000 50  0001 C CNN
+F 3 "~" H 4800 4000 50  0001 C CNN
+	1    4800 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6188E1FE
+P 4350 3900
+AR Path="/61884464/6188E1FE" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188E1FE" Ref="R4"  Part="1" 
+AR Path="/618A51E6/6188E1FE" Ref="R12"  Part="1" 
+AR Path="/618A54D1/6188E1FE" Ref="R20"  Part="1" 
+AR Path="/618A561D/6188E1FE" Ref="R28"  Part="1" 
+F 0 "R4" V 4143 3900 50  0000 C CNN
+F 1 "R" V 4234 3900 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4280 3900 50  0001 C CNN
+F 3 "~" H 4350 3900 50  0001 C CNN
+	1    4350 3900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6188DD80
+P 4800 3800
+AR Path="/61884464/6188DD80" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188DD80" Ref="R7"  Part="1" 
+AR Path="/618A51E6/6188DD80" Ref="R15"  Part="1" 
+AR Path="/618A54D1/6188DD80" Ref="R23"  Part="1" 
+AR Path="/618A561D/6188DD80" Ref="R31"  Part="1" 
+F 0 "R7" V 4593 3800 50  0000 C CNN
+F 1 "R" V 4684 3800 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4730 3800 50  0001 C CNN
+F 3 "~" H 4800 3800 50  0001 C CNN
+	1    4800 3800
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6188DD7A
+P 4350 3700
+AR Path="/61884464/6188DD7A" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188DD7A" Ref="R3"  Part="1" 
+AR Path="/618A51E6/6188DD7A" Ref="R11"  Part="1" 
+AR Path="/618A54D1/6188DD7A" Ref="R19"  Part="1" 
+AR Path="/618A561D/6188DD7A" Ref="R27"  Part="1" 
+F 0 "R3" V 4143 3700 50  0000 C CNN
+F 1 "R" V 4234 3700 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4280 3700 50  0001 C CNN
+F 3 "~" H 4350 3700 50  0001 C CNN
+	1    4350 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6188D8E8
+P 4800 3600
+AR Path="/61884464/6188D8E8" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188D8E8" Ref="R6"  Part="1" 
+AR Path="/618A51E6/6188D8E8" Ref="R14"  Part="1" 
+AR Path="/618A54D1/6188D8E8" Ref="R22"  Part="1" 
+AR Path="/618A561D/6188D8E8" Ref="R30"  Part="1" 
+F 0 "R6" V 4593 3600 50  0000 C CNN
+F 1 "R" V 4684 3600 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4730 3600 50  0001 C CNN
+F 3 "~" H 4800 3600 50  0001 C CNN
+	1    4800 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6188D8E2
+P 4350 3500
+AR Path="/61884464/6188D8E2" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188D8E2" Ref="R2"  Part="1" 
+AR Path="/618A51E6/6188D8E2" Ref="R10"  Part="1" 
+AR Path="/618A54D1/6188D8E2" Ref="R18"  Part="1" 
+AR Path="/618A561D/6188D8E2" Ref="R26"  Part="1" 
+F 0 "R2" V 4143 3500 50  0000 C CNN
+F 1 "R" V 4234 3500 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4280 3500 50  0001 C CNN
+F 3 "~" H 4350 3500 50  0001 C CNN
+	1    4350 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6188D18D
+P 4800 3400
+AR Path="/61884464/6188D18D" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188D18D" Ref="R5"  Part="1" 
+AR Path="/618A51E6/6188D18D" Ref="R13"  Part="1" 
+AR Path="/618A54D1/6188D18D" Ref="R21"  Part="1" 
+AR Path="/618A561D/6188D18D" Ref="R29"  Part="1" 
+F 0 "R5" V 4593 3400 50  0000 C CNN
+F 1 "R" V 4684 3400 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4730 3400 50  0001 C CNN
+F 3 "~" H 4800 3400 50  0001 C CNN
+	1    4800 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6188CBCD
+P 4350 3300
+AR Path="/61884464/6188CBCD" Ref="R?"  Part="1" 
+AR Path="/618A5117/6188CBCD" Ref="R1"  Part="1" 
+AR Path="/618A51E6/6188CBCD" Ref="R9"  Part="1" 
+AR Path="/618A54D1/6188CBCD" Ref="R17"  Part="1" 
+AR Path="/618A561D/6188CBCD" Ref="R25"  Part="1" 
+F 0 "R1" V 4143 3300 50  0000 C CNN
+F 1 "R" V 4234 3300 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4280 3300 50  0001 C CNN
+F 3 "~" H 4350 3300 50  0001 C CNN
+	1    4350 3300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6189B97A
+P 2800 4400
+AR Path="/61884464/6189B97A" Ref="#PWR?"  Part="1" 
+AR Path="/618A5117/6189B97A" Ref="#PWR0106"  Part="1" 
+AR Path="/618A51E6/6189B97A" Ref="#PWR0113"  Part="1" 
+AR Path="/618A54D1/6189B97A" Ref="#PWR0120"  Part="1" 
+AR Path="/618A561D/6189B97A" Ref="#PWR0127"  Part="1" 
+F 0 "#PWR0106" H 2800 4150 50  0001 C CNN
+F 1 "GND" H 2805 4227 50  0000 C CNN
+F 2 "" H 2800 4400 50  0001 C CNN
+F 3 "" H 2800 4400 50  0001 C CNN
+	1    2800 4400
+	1    0    0    -1  
+$EndComp
+Text HLabel 3400 4200 2    50   Input ~ 0
+data_out
+Text HLabel 2400 3300 0    50   Input ~ 0
+data_in
+$Comp
+L Display_Character:KCSA02-106 U?
+U 1 1 6189DBD6
+P 5400 3600
+AR Path="/61884464/6189DBD6" Ref="U?"  Part="1" 
+AR Path="/618A5117/6189DBD6" Ref="U2"  Part="1" 
+AR Path="/618A51E6/6189DBD6" Ref="U4"  Part="1" 
+AR Path="/618A54D1/6189DBD6" Ref="U6"  Part="1" 
+AR Path="/618A561D/6189DBD6" Ref="U8"  Part="1" 
+F 0 "U2" H 5400 4267 50  0000 C CNN
+F 1 "KCSA02-106" H 5400 4176 50  0000 C CNN
+F 2 "kiwi_display:7seg" H 5400 3000 50  0001 C CNN
+F 3 "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-106(Ver.11A).pdf" H 4900 4075 50  0001 L CNN
+	1    5400 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 618A1E19
+P 5700 3900
+AR Path="/61884464/618A1E19" Ref="#PWR?"  Part="1" 
+AR Path="/618A5117/618A1E19" Ref="#PWR0107"  Part="1" 
+AR Path="/618A51E6/618A1E19" Ref="#PWR0114"  Part="1" 
+AR Path="/618A54D1/618A1E19" Ref="#PWR0121"  Part="1" 
+AR Path="/618A561D/618A1E19" Ref="#PWR0128"  Part="1" 
+F 0 "#PWR0107" H 5700 3750 50  0001 C CNN
+F 1 "+5V" V 5715 4028 50  0000 L CNN
+F 2 "" H 5700 3900 50  0001 C CNN
+F 3 "" H 5700 3900 50  0001 C CNN
+	1    5700 3900
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 618A2456
+P 5700 4000
+AR Path="/61884464/618A2456" Ref="#PWR?"  Part="1" 
+AR Path="/618A5117/618A2456" Ref="#PWR0108"  Part="1" 
+AR Path="/618A51E6/618A2456" Ref="#PWR0115"  Part="1" 
+AR Path="/618A54D1/618A2456" Ref="#PWR0122"  Part="1" 
+AR Path="/618A561D/618A2456" Ref="#PWR0129"  Part="1" 
+F 0 "#PWR0108" H 5700 3850 50  0001 C CNN
+F 1 "+5V" V 5715 4128 50  0000 L CNN
+F 2 "" H 5700 4000 50  0001 C CNN
+F 3 "" H 5700 4000 50  0001 C CNN
+	1    5700 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 618A29D3
+P 2100 3600
+AR Path="/61884464/618A29D3" Ref="#PWR?"  Part="1" 
+AR Path="/618A5117/618A29D3" Ref="#PWR0109"  Part="1" 
+AR Path="/618A51E6/618A29D3" Ref="#PWR0116"  Part="1" 
+AR Path="/618A54D1/618A29D3" Ref="#PWR0123"  Part="1" 
+AR Path="/618A561D/618A29D3" Ref="#PWR0130"  Part="1" 
+F 0 "#PWR0109" H 2100 3450 50  0001 C CNN
+F 1 "+5V" V 2115 3728 50  0000 L CNN
+F 2 "" H 2100 3600 50  0001 C CNN
+F 3 "" H 2100 3600 50  0001 C CNN
+	1    2100 3600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2100 3600 2400 3600
+Text HLabel 2400 3500 0    50   Input ~ 0
+clk
+$Comp
+L power:GND #PWR?
+U 1 1 618A3A23
+P 2400 3900
+AR Path="/61884464/618A3A23" Ref="#PWR?"  Part="1" 
+AR Path="/618A5117/618A3A23" Ref="#PWR0110"  Part="1" 
+AR Path="/618A51E6/618A3A23" Ref="#PWR0117"  Part="1" 
+AR Path="/618A54D1/618A3A23" Ref="#PWR0124"  Part="1" 
+AR Path="/618A561D/618A3A23" Ref="#PWR0131"  Part="1" 
+F 0 "#PWR0110" H 2400 3650 50  0001 C CNN
+F 1 "GND" V 2405 3772 50  0000 R CNN
+F 2 "" H 2400 3900 50  0001 C CNN
+F 3 "" H 2400 3900 50  0001 C CNN
+	1    2400 3900
+	0    1    1    0   
+$EndComp
+Text HLabel 2400 3800 0    50   Input ~ 0
+to_output
+$Comp
+L power:+5V #PWR?
+U 1 1 618A4584
+P 2900 2850
+AR Path="/61884464/618A4584" Ref="#PWR?"  Part="1" 
+AR Path="/618A5117/618A4584" Ref="#PWR0111"  Part="1" 
+AR Path="/618A51E6/618A4584" Ref="#PWR0118"  Part="1" 
+AR Path="/618A54D1/618A4584" Ref="#PWR0125"  Part="1" 
+AR Path="/618A561D/618A4584" Ref="#PWR0132"  Part="1" 
+F 0 "#PWR0111" H 2900 2700 50  0001 C CNN
+F 1 "+5V" H 2915 3023 50  0000 C CNN
+F 2 "" H 2900 2850 50  0001 C CNN
+F 3 "" H 2900 2850 50  0001 C CNN
+	1    2900 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 2850 2900 2950
+Text Notes 2000 4750 0    50   ~ 0
+https://www.mouser.fr/datasheet/2/216/SA10-21EWA-49750.pdf
+$Comp
+L kiwi_display:TPIC6C595 U1
+U 1 1 618BDBB7
+P 2900 3700
+AR Path="/618A5117/618BDBB7" Ref="U1"  Part="1" 
+AR Path="/618A51E6/618BDBB7" Ref="U3"  Part="1" 
+AR Path="/618A54D1/618BDBB7" Ref="U5"  Part="1" 
+AR Path="/618A561D/618BDBB7" Ref="U7"  Part="1" 
+F 0 "U1" H 2900 4481 50  0000 C CNN
+F 1 "TPIC6C595" H 2900 4390 50  0000 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm" H 3550 3050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tpic6595.pdf" H 2900 3650 50  0001 C CNN
+	1    2900 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 3900 5100 3900
+Wire Wire Line
+	4950 3800 5100 3800
+Wire Wire Line
+	4500 3700 5100 3700
+Wire Wire Line
+	4950 4000 5100 4000
+Wire Wire Line
+	3750 3600 3750 4000
+Wire Wire Line
+	3750 4000 3400 4000
+Wire Wire Line
+	3650 3700 3650 3900
+Wire Wire Line
+	3650 3900 3400 3900
+Wire Wire Line
+	3650 3700 4200 3700
+Wire Wire Line
+	3600 3500 3600 3700
+Wire Wire Line
+	3600 3700 3400 3700
+Wire Wire Line
+	3600 3500 4200 3500
+Wire Wire Line
+	3900 3800 3900 4000
+Wire Wire Line
+	3900 4000 4650 4000
+Wire Wire Line
+	3400 3800 3900 3800
+Wire Wire Line
+	3400 3300 3950 3300
+Wire Wire Line
+	3950 3300 3950 3800
+Wire Wire Line
+	3950 3800 4650 3800
+Wire Wire Line
+	3800 3900 3800 3400
+Wire Wire Line
+	3800 3400 3400 3400
+Wire Wire Line
+	3800 3900 4200 3900
+Wire Wire Line
+	3750 3600 4650 3600
+Wire Wire Line
+	3400 3600 3550 3600
+Wire Wire Line
+	3550 3600 3550 3200
+Wire Wire Line
+	3550 3200 4000 3200
+Wire Wire Line
+	4000 3200 4000 3300
+Wire Wire Line
+	3400 3500 3450 3500
+Wire Wire Line
+	4200 3300 4000 3300
+Wire Wire Line
+	3450 3500 3450 3050
+Wire Wire Line
+	3450 3050 4050 3050
+Wire Wire Line
+	4050 3050 4050 3400
+Wire Wire Line
+	4050 3400 4650 3400
+$Comp
+L Device:C C1
+U 1 1 61928187
+P 2500 2950
+AR Path="/618A5117/61928187" Ref="C1"  Part="1" 
+AR Path="/618A51E6/61928187" Ref="C2"  Part="1" 
+AR Path="/618A54D1/61928187" Ref="C3"  Part="1" 
+AR Path="/618A561D/61928187" Ref="C4"  Part="1" 
+F 0 "C1" V 2248 2950 50  0000 C CNN
+F 1 "C" V 2339 2950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2538 2800 50  0001 C CNN
+F 3 "~" H 2500 2950 50  0001 C CNN
+	1    2500 2950
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2650 2950 2900 2950
+Connection ~ 2900 2950
+Wire Wire Line
+	2900 2950 2900 3100
+$Comp
+L power:GND #PWR0140
+U 1 1 61929560
+P 2350 2950
+AR Path="/618A5117/61929560" Ref="#PWR0140"  Part="1" 
+AR Path="/618A51E6/61929560" Ref="#PWR0141"  Part="1" 
+AR Path="/618A54D1/61929560" Ref="#PWR0142"  Part="1" 
+AR Path="/618A561D/61929560" Ref="#PWR0143"  Part="1" 
+F 0 "#PWR0140" H 2350 2700 50  0001 C CNN
+F 1 "GND" V 2355 2822 50  0000 R CNN
+F 2 "" H 2350 2950 50  0001 C CNN
+F 3 "" H 2350 2950 50  0001 C CNN
+	1    2350 2950
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC

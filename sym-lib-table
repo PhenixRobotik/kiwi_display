@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name kiwi_display)(type Legacy)(uri ${KIPRJMOD}/kiwi_display.lib)(options "")(descr ""))
+)
